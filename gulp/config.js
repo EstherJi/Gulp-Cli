@@ -84,7 +84,7 @@ module.exports = {
                 ['/__api', '']
         ],
         js_prod: [
-                ['sa?project=tdwloantest', 'sa?project=tdwloan']
+                ['', '']
         ],
         css: []
     },

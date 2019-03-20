@@ -1,14 +1,14 @@
 {
-  "name": "load-static-h5",
+  "name": "gulp cli",
   "version": "1.0.0",
-  "description": "团贷借款项目H5",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://git.tuandai888.com/sz-fe/load-static-h5.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
