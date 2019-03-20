@@ -1,0 +1,26 @@
+
+.m-index{
+    .icon-common{
+        display: inline-block;
+        width: 89px;
+        height: 89px;
+        background-size: 100% 100%;
+
+        &.icon-success{
+            background-image: url(/assets/img/qnj_icon_success.png);
+        }
+
+        &.icon-error-replace{
+            background-image: url(/assets/img/default/qnj_icon_error.png);
+        }
+    }
+
+    .text{   
+        color: $mainColor;
+    }
+
+    img{
+        width: 89px;
+        height: 89px;
+    }
+}

@@ -1,0 +1,7 @@
+/node_modules/
+/rev/
+/.gulp/
+/package-lock.json
+/dist/
+/src/__view/
+/src/assets/css/

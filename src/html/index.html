@@ -1,0 +1,18 @@
+@@include('header.html', {
+    "title": "首页",
+    "aCss": ["index.css"]
+})
+    
+    <div class="m-index">
+        <p>公共图片</p>
+        <p><i class="icon-common icon-success"></i></p>
+        <p>不同文件夹下的图片，根据传入参数替换路径</p>
+        <p><i class="icon-common icon-error-replace"></i></p>
+        <p class="text">颜色字体随传入 -p 参数变化</p>
+        <p>HTML中直接引入图片，根据参数替换路径</p>
+        <p><img src="assets/img/default/qnj_icon_wait.png"></p>
+    </div>
+
+@@include('footer.html', {
+    "module": "index.js"
+})
