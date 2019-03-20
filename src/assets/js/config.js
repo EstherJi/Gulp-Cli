@@ -7,7 +7,6 @@ require.config({
 		'jsencrypt': 'lib/jsencrypt',
 		'gt': 'lib/gt',
 		'sensors': 'lib/sensorsdata.amd.min',
-		'sa': 'lib/sa'
 	}
 })
 
