@@ -15,7 +15,7 @@ require.config({
 //Load Module
 ;(function(){
 	document.body.addEventListener('touchstart', function() {}, false);
-	window.__ApiBaseUrl = 'https://loan.tuandai.com';
+	window.__ApiBaseUrl = '';
 
 	var moduleName,
 		oScript = document.getElementById('rjs');
